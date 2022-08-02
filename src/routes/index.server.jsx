@@ -1,6 +1,6 @@
 
 
-import Home from "../components/Home/home.client";
+import Home from "../components/home/home.client";
 
 const Index = () => {
     return(

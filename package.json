@@ -5,9 +5,10 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "dev": "shopify hydrogen dev",
-    "build": "shopify hydrogen build",
-    "preview": "shopify hydrogen preview"
+    "dev": " shopify hydrogen dev",
+    "build": "",
+    "preview": "shopify hydrogen preview",
+    "build:css": "postcss src/tailwind.scss -o src/index.scss "
   },
   "devDependencies": {
     "@shopify/cli": "3.4.0",

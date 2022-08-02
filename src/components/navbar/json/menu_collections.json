@@ -1,0 +1,773 @@
+[
+  {
+    "title": "Men's",
+    "handle": "men",
+    "label": "Men",
+    "sub_collections": [
+      {
+        "menu_title": "Featured",
+        "sub_collections": [
+          {
+            "title": "New Arrivals",
+            "handle": "new-arrivals-men",
+            "label": "New Arrivals🔥"
+          },
+          {
+            "title": "Best Sellers",
+            "handle": "mens-best-sellers",
+            "label": "Best Sellers"
+          },
+          {
+            "title": "UA Technology",
+            "href": "/pages/ua-tech-landing-page",
+            "label": "UA Technology"
+          },
+          {
+            "title": "Gift Cards",
+            "href": "/products/ua-egift-cards",
+            "label": "Gift Cards"
+          }
+        ]
+      },
+      {
+        "menu_title": "Shop by Category",
+        "sub_collections": [
+          {
+            "title": "Baselayer",
+            "handle": "mens-baselayer",
+            "label": "Baselayer"
+          },
+          {
+            "title": "Bottoms",
+            "handle": "mens-bottoms",
+            "label": "Bottoms"
+          },
+          {
+            "title": "Shoes",
+            "handle": "mens-shoes",
+            "label": "Shoes"
+          },
+          {
+            "title": "Tops",
+            "handle": "mens-tops",
+            "label": "Tops"
+          },
+          {
+            "title": "Underwear",
+            "handle": "mens-underwear",
+            "label": "Underwear"
+          }
+        ]
+      },
+      {
+        "menu_title": "Shop by Sport",
+        "sub_collections": [
+          {
+            "title": "Basketball",
+            "handle": "mens-basketball",
+            "label": "Basketball"
+          },
+          {
+            "title": "Golf",
+            "handle": "mens-golf",
+            "label": "Golf"
+          },
+          {
+            "title": "Running",
+            "handle": "mens-running",
+            "label": "Running"
+          },
+          {
+            "title": "Soccer & Rugby",
+            "handle": "mens-soccer-rugby",
+            "label": "Soccer & Rugby"
+          },
+          {
+            "title": "Training",
+            "handle": "training-men",
+            "label": "Training"
+          },
+          {
+            "title": "Yoga & Studio",
+            "handle": "mens-yoga-studio",
+            "label": "Yoga & Studio"
+          },
+          {
+            "title": "Hiking & Tactical",
+            "handle": "mens-hiking-tactical",
+            "label": "Hiking & Tactical"
+          }
+        ]
+      },
+      {
+        "menu_title": "Shop by Collection",
+        "sub_collections": [
+          {
+            "title": "UA HeatGear™",
+            "handle": "mens-ua-heatgear™",
+            "label": "UA HeatGear™"
+          },
+          {
+            "title": "UA HOVR™",
+            "handle": "mens-ua-hovr™",
+            "label": "UA HOVR™"
+          },
+          {
+            "title": "Iso-Chill™",
+            "handle": "isochill",
+            "label": "UA Iso-Chill™"
+          },
+          {
+            "title": "Project Rock",
+            "handle": "project-rock-men",
+            "label": "Project Rock"
+          },
+          {
+            "title": "UA RUSH™",
+            "handle": "mens-ua-rush™",
+            "label": "UA RUSH™"
+          },
+          {
+            "title": "UA ColdGear™",
+            "handle": "mens-ua-coldgear™",
+            "label": "UA ColdGear™"
+          },
+          {
+            "title": "UA Storm™",
+            "handle": "mens-ua-storm™",
+            "label": "UA Storm™"
+          }
+        ]
+      },
+      {
+        "menu_title": "Accessories",
+        "sub_collections": [
+          {
+            "title": "All Accessories",
+            "handle": "mens-accessories",
+            "label": "All Accessories"
+          },
+          {
+            "title": "Backpacks & Bags",
+            "handle": "mens-backpacks-bags",
+            "label": "Backpacks & Bags"
+          },
+          {
+            "title": "Belts",
+            "handle": "belts",
+            "label": "Belts"
+          },
+          {
+            "title": "Hats, Caps & Visors",
+            "handle": "mens-hats-caps-visors",
+            "label": "Hats, Caps & Visors"
+          },
+          {
+            "title": "Headphones & Watches",
+            "handle": "headphones-watches",
+            "label": "Headphones & Watches"
+          },
+          {
+            "title": "Socks",
+            "handle": "mens-socks",
+            "label": "Socks"
+          },
+          {
+            "title": "Sport Gloves",
+            "handle": "mens-sport-gloves",
+            "label": "Sport Gloves"
+          },
+          {
+            "title": "Sunglasses",
+            "handle": "mens-sunglasses",
+            "label": "Sunglasses"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Women's",
+    "handle": "women",
+    "label": "Women",
+    "sub_collections": [
+      {
+        "menu_title": "Featured",
+        "sub_collections": [
+          {
+            "title": "New Arrivals",
+            "handle": "new-arrivals-women",
+            "label": "New Arrivals🔥"
+          },
+          {
+            "title": "Best Sellers",
+            "handle": "womens-best-sellers",
+            "label": "Best Sellers"
+          },
+          {
+            "title": "UA Technology",
+            "href": "/pages/ua-tech-landing-page",
+            "label": "UA Technology"
+          },
+          {
+            "title": "Gift Cards",
+            "href": "/products/ua-egift-cards",
+            "label": "Gift Cards"
+          }
+        ]
+      },
+      {
+        "menu_title": "Shop by Category",
+        "sub_collections": [
+          {
+            "title": "Baselayer",
+            "handle": "womens-baselayer",
+            "label": "Baselayer"
+          },
+          {
+            "title": "Bottoms",
+            "handle": "womens-bottoms",
+            "label": "Bottoms"
+          },
+          {
+            "title": "Sports Bras",
+            "handle": "womens-sports-bra",
+            "label": "Sports Bras"
+          },
+          {
+            "title": "Shoes",
+            "handle": "womens-shoes",
+            "label": "Shoes"
+          },
+          {
+            "title": "Tops",
+            "handle": "womens-tops",
+            "label": "Tops"
+          },
+          {
+            "title": "Underwear",
+            "handle": "womens-underwear",
+            "label": "Underwear"
+          }
+        ]
+      },
+      {
+        "menu_title": "Shop by Sport",
+        "sub_collections": [
+          {
+            "title": "Basketball",
+            "handle": "womens-basketball",
+            "label": "Basketball"
+          },
+          {
+            "title": "Golf",
+            "handle": "womens-golf",
+            "label": "Golf"
+          },
+          {
+            "title": "Running",
+            "handle": "womens-running",
+            "label": "Running"
+          },
+          {
+            "title": "Soccer & Rugby",
+            "handle": "womens-soccer-rugby",
+            "label": "Soccer & Rugby"
+          },
+          {
+            "title": "Training",
+            "handle": "training-women",
+            "label": "Training"
+          },
+          {
+            "title": "Yoga & Studio",
+            "handle": "womens-yoga-studio",
+            "label": "Yoga & Studio"
+          },
+          {
+            "title": "Hiking & Tactical",
+            "handle": "womens-hiking-tactical",
+            "label": "Hiking & Tactical"
+          }
+        ]
+      },
+      {
+        "menu_title": "Shop by Collection",
+        "sub_collections": [
+          {
+            "title": "UA HeatGear™",
+            "handle": "womens-ua-heatgear™",
+            "label": "UA HeatGear™"
+          },
+          {
+            "title": "UA HOVR™",
+            "handle": "womens-ua-hovr™",
+            "label": "UA HOVR™"
+          },
+          {
+            "title": "UA Meridian™",
+            "handle": "ua-meridian™-women",
+            "label": "UA Meridian™"
+          },
+          {
+            "title": "Iso-Chill™",
+            "handle": "isochill",
+            "label": "UA Iso-Chill™"
+          },
+          {
+            "title": "Project Rock",
+            "handle": "project-rock-women",
+            "label": "Project Rock"
+          },
+          {
+            "title": "UA RUSH™",
+            "handle": "womens-ua-rush™",
+            "label": "UA RUSH™"
+          },
+          {
+            "title": "UA ColdGear™",
+            "handle": "womens-ua-coldgear™",
+            "label": "UA ColdGear™"
+          },
+          {
+            "title": "UA Storm™",
+            "handle": "womens-ua-storm™",
+            "label": "UA Storm™"
+          }
+        ]
+      },
+      {
+        "menu_title": "Accessories",
+        "sub_collections": [
+          {
+            "title": "All Accessories",
+            "handle": "womens-all-accessories",
+            "label": "All Accessories"
+          },
+          {
+            "title": "Backpacks & Bags",
+            "handle": "womens-backpacks-bags",
+            "label": "Backpacks & Bags"
+          },
+          {
+            "title": "Belts",
+            "handle": "belts",
+            "label": "Belts"
+          },
+          {
+            "title": "Hats, Caps & Visors",
+            "handle": "womens-hats-caps-visors",
+            "label": "Hats, Caps & Visors"
+          },
+          {
+            "title": "Headphones & Watches",
+            "handle": "headphones-watches",
+            "label": "Headphones & Watches"
+          },
+          {
+            "title": "Socks",
+            "handle": "womens-socks",
+            "label": "Socks"
+          },
+          {
+            "title": "Sport Gloves",
+            "handle": "womens-sport-gloves",
+            "label": "Sport Gloves"
+          },
+          {
+            "title": "Sunglasses",
+            "handle": "womens-sunglasses",
+            "label": "Sunglasses"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Kids'",
+    "handle": "kids",
+    "label": "Kids",
+    "sub_collections": [
+      {
+        "menu_title": "Featured",
+        "sub_collections": [
+          {
+            "title": "New Arrivals",
+            "handle": "kids-new-arrivals",
+            "label": "New Arrivals🔥"
+          },
+          {
+            "title": "Best Sellers",
+            "handle": "kids-best-sellers",
+            "label": "Best Sellers"
+          },
+          {
+            "title": "UA Technology",
+            "href": "/pages/ua-tech-landing-page",
+            "label": "UA Technology"
+          },
+          {
+            "title": "Gift Cards",
+            "href": "/products/ua-egift-cards",
+            "label": "Gift Cards"
+          }
+        ]
+      },
+      {
+        "menu_title": "Boys'",
+        "href": "/collections/boys",
+        "sub_collections": [
+          {
+            "title": "Accessories",
+            "handle": "boys-accessories",
+            "label": "Accessories"
+          },
+          {
+            "title": "Bottoms",
+            "handle": "boys-bottoms",
+            "label": "Bottoms"
+          },
+          {
+            "title": "Shoes",
+            "handle": "boys-shoes",
+            "label": "Shoes"
+          },
+          {
+            "title": "Socks",
+            "handle": "boys-socks",
+            "label": "Socks"
+          },
+          {
+            "title": "Tops",
+            "handle": "boys-tops",
+            "label": "Tops"
+          }
+        ]
+      },
+      {
+        "menu_title": "Girls'",
+        "href": "/collections/girls",
+        "sub_collections": [
+          {
+            "title": "Accessories",
+            "handle": "girls-accessories",
+            "label": "Accessories"
+          },
+          {
+            "title": "Bottoms",
+            "handle": "girls-bottoms",
+            "label": "Bottoms"
+          },
+          {
+            "title": "Shoes",
+            "handle": "girls-shoes",
+            "label": "Shoes"
+          },
+          {
+            "title": "Socks",
+            "handle": "girls-socks",
+            "label": "Socks"
+          },
+          {
+            "title": "Tops",
+            "handle": "girls-tops",
+            "label": "Tops"
+          }
+        ]
+      },
+      {
+        "menu_title": "Shop by Sport",
+        "sub_collections": [
+          {
+            "title": "Basketball",
+            "handle": "basketball-gear-for-kids",
+            "label": "Basketball"
+          },
+          {
+            "title": "Golf",
+            "handle": "golf-gear-for-kids",
+            "label": "Golf"
+          },
+          {
+            "title": "Running",
+            "handle": "running-gear-for-kids",
+            "label": "Running"
+          },
+          {
+            "title": "Training",
+            "handle": "training-gear-for-kids",
+            "label": "Training"
+          },
+          {
+            "title": "Yoga & Studio",
+            "handle": "yoga-studio-gear-for-kids",
+            "label": "Yoga & Studio"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Shoes",
+    "handle": "shoes",
+    "label": "Shoes",
+    "sub_collections": [
+      {
+        "menu_title": "Featured",
+        "sub_collections": [
+          {
+            "title": "New Arrivals",
+            "handle": "new-arrivals-shoes",
+            "label": "New Arrivals🔥"
+          },
+          {
+            "title": "Best Sellers",
+            "handle": "shoes-best-sellers",
+            "label": "Best Sellers"
+          },
+          {
+            "title": "UA Technology",
+            "href": "/pages/ua-tech-landing-page",
+            "label": "UA Technology"
+          },
+          {
+            "title": "Gift Cards",
+            "href": "/products/ua-egift-cards",
+            "label": "Gift Cards"
+          }
+        ]
+      },
+      {
+        "menu_title": "Shop by Gender",
+        "sub_collections": [
+          {
+            "title": "Men's Shoes",
+            "handle": "mens-shoes",
+            "label": "Men's Shoes"
+          },
+          {
+            "title": "Women's Shoes",
+            "handle": "womens-shoes",
+            "label": "Women's Shoes"
+          },
+          {
+            "title": "Boys' Shoes",
+            "handle": "boys-shoes",
+            "label": "Boy's Shoes"
+          },
+          {
+            "title": "Girls' Shoes",
+            "handle": "girls-shoes",
+            "label": "Girls' Shoes"
+          }
+        ]
+      },
+      {
+        "menu_title": "Shop by Sport",
+        "sub_collections": [
+          {
+            "title": "Basketball",
+            "handle": "basketball-shoes",
+            "label": "Basketball"
+          },
+          {
+            "title": "Golf",
+            "handle": "golf-shoes",
+            "label": "Golf"
+          },
+          {
+            "title": "Running",
+            "handle": "running-shoes",
+            "label": "Running"
+          },
+          {
+            "title": "Soccer & Rugby",
+            "handle": "soccer-rugby-shoes",
+            "label": "Soccer & Rugby"
+          },
+          {
+            "title": "Training",
+            "handle": "training-shoes",
+            "label": "Training"
+          },
+          {
+            "title": "Hiking & Tactical",
+            "handle": "hiking-tactical-shoes",
+            "label": "Hiking & Tactical"
+          }
+        ]
+      },
+      {
+        "menu_title": "Shop by Collection",
+        "sub_collections": [
+          {
+            "title": "UA Flow",
+            "handle": "ua-flow-shoes",
+            "label": "UA Flow™"
+          },
+          {
+            "title": "UA Charged",
+            "handle": "ua-charged",
+            "label": "UA Charged"
+          },
+          {
+            "title": "Boots & Cleats",
+            "handle": "boots-cleats",
+            "label": "Boots & Cleats"
+          },
+          {
+            "title": "Sandals & Slides",
+            "handle": "sandals-and-slides",
+            "label": "Sandals & Slides"
+          },
+          {
+            "title": "UA HOVR™",
+            "handle": "ua-hovr%E2%84%A2-shoes",
+            "label": "UA HOVR™"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Outlet",
+    "handle": "outlet",
+    "label": "Outlet",
+    "sub_collections": [
+      {
+        "menu_title": "Featured",
+        "label": "Featured",
+        "title": "Featured Outlet",
+        "sub_collections": [
+          {
+            "title": "Best Sellers",
+            "handle": "outlet-best-sellers",
+            "label": "Best Sellers"
+          },
+          {
+            "title": "UA Technology",
+            "href": "/pages/ua-tech-landing-page",
+            "label": "UA Technology"
+          },
+          {
+            "title": "Gift Cards",
+            "href": "/products/ua-egift-cards",
+            "label": "Gift Cards"
+          }
+        ]
+      },
+      {
+        "menu_title": "Men",
+        "label": "Men",
+        "title": "Men Outlet",
+        "href": "/collections/mens-outlet",
+        "sub_collections": [
+          {
+            "title": "Accessories",
+            "handle": "mens-outlet-accessories",
+            "label": "Accessories"
+          },
+          {
+            "title": "Bottoms",
+            "handle": "mens-outlet-bottoms",
+            "label": "Bottoms"
+          },
+          {
+            "title": "Shoes",
+            "handle": "mens-outlet-shoes",
+            "label": "Shoes"
+          },
+          {
+            "title": "Tops",
+            "handle": "mens-outlet-tops",
+            "label": "Tops"
+          }
+        ]
+      },
+      {
+        "menu_title": "Women",
+        "label": "Women",
+        "title": "Women Outlet",
+        "href": "/collections/womens-outlet",
+        "sub_collections": [
+          {
+            "title": "Accessories",
+            "handle": "womens-outlet-accessories",
+            "label": "Accessories"
+          },
+          {
+            "title": "Bottoms",
+            "handle": "womens-outlet-bottoms",
+            "label": "Bottoms"
+          },
+          {
+            "title": "Shoes",
+            "handle": "womens-outlet-shoes",
+            "label": "Shoes"
+          },
+          {
+            "title": "Tops",
+            "handle": "womens-outlet-tops",
+            "label": "Tops"
+          }
+        ]
+      },
+      {
+        "menu_title": "Boys",
+        "label": "Boys",
+        "title": "Boys Outlet",
+        "href": "/collections/boys-outlet",
+        "sub_collections": [
+          {
+            "title": "Accessories",
+            "handle": "boys-outlet-accessories",
+            "label": "Accessories"
+          },
+          {
+            "title": "Bottoms",
+            "handle": "boys-outlet-bottoms",
+            "label": "Bottoms"
+          },
+          {
+            "title": "Shoes",
+            "handle": "boys-outlet-shoes",
+            "label": "Shoes"
+          },
+          {
+            "title": "Tops",
+            "handle": "boys-outlet-tops",
+            "label": "Tops"
+          }
+        ]
+      },
+      {
+        "menu_title": "Girls",
+        "label": "Girls",
+        "title": "Girls Outlet",
+        "href": "/collections/girls-outlet",
+        "sub_collections": [
+          {
+            "title": "Accessories",
+            "handle": "girls-outlet-accessories",
+            "label": "Accessories"
+          },
+          {
+            "title": "Bottoms",
+            "handle": "girls-outlet-bottoms",
+            "label": "Bottoms"
+          },
+          {
+            "title": "Shoes",
+            "handle": "girls-outlet-shoes",
+            "label": "Shoes"
+          },
+          {
+            "title": "Tops",
+            "handle": "girls-outlet-tops",
+            "label": "Tops"
+          }
+        ]
+      }
+    ]
+  }
+]

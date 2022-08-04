@@ -26,15 +26,19 @@ const Home = () => {
 			<h1 className="text-xl">Home Page</h1>
 			<div>
 				{landing.map((data) => (
-					<div key={data}>
+					<div className="relative text-black" key={data}>
 						<video src={data.bannerhref}></video>
-            <h1 className="text-8xl">{data.heading}</h1>
-            <p>{data.description}</p>
+            <div className="absolute top-1/4 left-10">
+            <h1 className="text-8xl bold w-3">{data.heading}</h1>
+            <p className="w-1/2 ">{data.description}</p>
+            <button className="btn btn-hero justify-center btn-dark bg-black text-white  w-full md:w-fit ">Shop Iso-Chill</button>
+            </div>
+           
 					</div>
 				))}
 			</div>
 			<div></div>
-			<button className="btn bg-black text-cyan-500">Press</button>
+		
 		</div>
 	);
 };

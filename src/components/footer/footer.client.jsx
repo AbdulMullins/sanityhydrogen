@@ -121,7 +121,6 @@ const Footer = () =>{
             className="flex w-full relative rounded-lg border border-ua-silver p-2"
           >
             <label
-              for="contact-email"
               className="font-semibold text-xs absolute -top-2 left-4 bg-ua-lighter-grey px-1"
               >Email Address*</label
             >
@@ -175,7 +174,6 @@ const Footer = () =>{
           className="flex w-full relative rounded-lg border border-ua-silver p-2"
         >
           <label
-            for="contact-email"
             className="font-semibold text-xs absolute -top-2 left-4 bg-ua-lighter-grey px-1"
             >Email Address*</label
           >

@@ -23,7 +23,14 @@ const Home = () => {
   console.log(landing)
 	return (
 		<div>
-			<h1 className="text-xl">Home Page</h1>
+			<h1 className="text-4xl">Home Page</h1>
+			<a href="/products/" className="text-2xl bg-black text-white hover:bg-slate-600 rounded w-[350px]">
+			VIEW ALL PRODUCTS
+			</a>
+			<a href="/collections/" className="text-2xl ml-10 bg-black text-white hover:bg-slate-600 rounded w-[350px]">
+			VIEW ALL COLLECTIONS
+			</a>
+		
 			<div>
 				{landing.map((data) => (
 					<div className="relative text-black" key={data}>

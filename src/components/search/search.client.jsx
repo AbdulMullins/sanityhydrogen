@@ -6,23 +6,23 @@ import { useEffect, useState } from "react";
 //when i finish as im going to change most of code  around
 
 
-const Search = (payload) => {
-    const [searchField , setSearchField] = useState('')
-    const onSearchChange = (event)=>{
-        const searchFieldString = event.target.value.toLocaleLowerCase();
-        setSearchField(searchFieldString)
+const Search = () => {
+    // const [searchField , setSearchField] = useState('')
+    // const onSearchChange = (event)=>{
+    //     const searchFieldString = event.target.value.toLocaleLowerCase();
+    //     setSearchField(searchFieldString)
 
-      }
-      const filterdCollection =  payload.collection.filter((collection)=>{
-              return collection.title.toLocaleLowerCase().includes(searchField);
-           });
-      console.log('box', filterdCollection)
+    //   }
+    //   const filterdCollection =  payload.collection.filter((collection)=>{
+    //           return collection.title.toLocaleLowerCase().includes(searchField);
+    //        });
+    //   console.log('box', filterdCollection)
     return(
         <>
 
             <label >Search</label>
-            <input type="text" onChange={onSearchChange} className="border-black bg-black ml-5 text-white" />
-            {filterdCollection.map((products) => {
+			<input type="text" className="border-black bg-black ml-5 text-white" /> 
+            {/* {filterdCollection.map((products) => {
 						return (
 							<>
 								<div className=" inline-flex ml-10 flex-col">
@@ -48,7 +48,7 @@ const Search = (payload) => {
 								</div>
 							</>
 						);
-					})}
+					})} */}
         </>
         
     )

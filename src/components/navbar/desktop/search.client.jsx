@@ -1,4 +1,4 @@
-
+import Search from "../../search/search.client"
 const NavSearch = () =>{
   // this is the side search bar which will import the search jsx file and display the content within the search
   // still a work in progress
@@ -57,9 +57,8 @@ const NavSearch = () =>{
               </p>
               <div className="absolute inset-0 overflow-scroll no-scrollbar">
                 {/* <Products /> */}
-                {/* <SearchResult
-
-                /> */}
+                <Search 
+                />
               </div>
             </div>
           </div>

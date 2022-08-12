@@ -1,4 +1,6 @@
 import {  gql, useShopQuery, Link } from "@shopify/hydrogen";
+
+// Gets all the products
 const Products = () => {
   
 const QUERY = gql`

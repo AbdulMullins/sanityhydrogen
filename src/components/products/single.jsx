@@ -1,5 +1,6 @@
 import { gql, useShopQuery } from "@shopify/hydrogen";
 import AddToCart from "../cart/addToCart";
+// import Variants from "./variants";
 const SingleProductLayout = (payload) => {
     
     const { handle } = payload.data
@@ -73,7 +74,7 @@ const SingleProductLayout = (payload) => {
                             
                         </p>
                     </div>
-                     
+                      {/* <Variants id={product.node.id} /> */}
                       <AddToCart merchandiseId={product.node.id}/>
                     </>
                 )

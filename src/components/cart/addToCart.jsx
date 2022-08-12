@@ -1,5 +1,5 @@
 import { gql, useShopQuery } from "@shopify/hydrogen";
-
+// Work in Progress, ignore
 const AddToCart = (payload) => {
 
 	return (

@@ -1,18 +1,45 @@
 import {  gql, useShopQuery, Link } from "@shopify/hydrogen";
 const Products = () => {
   
+const QUERY = gql`
+query Products {
+products(first:250){
+  edges{
+    node{
+      id
+      title
+      handle
+      tags
+      priceRange{
+        minVariantPrice{
+          amount
+        }
+      }
+      images(first:1){
+        edges{
+          node{
+            transformedSrc
+            altText
+          }
+        }
+      }
+    }
+  }
+}
+}
+`;
   const {data} =  useShopQuery({
     query: QUERY,
   }); 
   
   return (
-    <section className="w-full gap-4 md:gap-8 grid p-6 md:p-8 lg:p-12">
+    <section className="w-full gap-3 md:gap-3 grid p-6 md:p-3 lg:p-12 col-3">
      
       <h2 className="whitespace-pre-wrap max-w-prose font-bold text-lead text-4xl">
        Products
       </h2>
 
-        <div className="flex">
+        <div className="flex flex-wrap">
         {data.products.edges.map((items)=>{
             return (
               <>
@@ -20,7 +47,7 @@ const Products = () => {
                {items.node.images.edges.map((item)=>{
                 return (
                   <>
-                    <img className="h-[400px]" src={item.node.transformedSrc} alt="product image" />
+                    <img className="h-[200px]" src={item.node.transformedSrc} alt="product image" />
                   </>
                 )
                })
@@ -36,42 +63,8 @@ const Products = () => {
             )
           })}
         </div>
-      
-
-    
-        
-          
-        
-
     </section>
   );
 }
 
-const QUERY = gql`
-  query Products {
-  products(first:250){
-    edges{
-      node{
-        id
-        title
-        handle
-        tags
-        priceRange{
-          minVariantPrice{
-            amount
-          }
-        }
-        images(first:1){
-          edges{
-            node{
-              transformedSrc
-              altText
-            }
-          }
-        }
-      }
-    }
-  }
-}
-`;
 export default Products

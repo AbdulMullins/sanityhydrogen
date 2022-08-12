@@ -24,9 +24,9 @@ const Home = () => {
 	return (
 		<div>
 			<h1 className="text-4xl">Home Page</h1>
-			<a href="/products/" className="text-2xl bg-black text-white hover:bg-slate-600 rounded w-[350px]">
+			{/* <a href="/products/" className="text-2xl bg-black text-white hover:bg-slate-600 rounded w-[350px]">
 			VIEW ALL PRODUCTS
-			</a>
+			</a> */}
 			<a href="/collections/" className="text-2xl ml-10 bg-black text-white hover:bg-slate-600 rounded w-[350px]">
 			VIEW ALL COLLECTIONS
 			</a>

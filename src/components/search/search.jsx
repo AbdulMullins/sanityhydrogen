@@ -1,12 +1,13 @@
 
 import { Link } from "@shopify/hydrogen";
 import { useEffect, useState } from "react";
-
+// import Products from "../products/products";
 // search functionality for all products is a work in progress , will update the comments 
 //when i finish as im going to change most of code  around
 
 
 const Search = () => {
+	
     // const [searchField , setSearchField] = useState('')
     // const onSearchChange = (event)=>{
     //     const searchFieldString = event.target.value.toLocaleLowerCase();

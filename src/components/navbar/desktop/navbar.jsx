@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import menuCollection from "../json/menu_collections.json";
-import NavSearch from "./search.client";
+import NavSearch from "./search";
 
 const DtNav = () => {
 	// using useState to trigger different parts of the navbar when hover
